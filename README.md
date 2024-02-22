@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Fane, I'm learning how to use these new tools!
+
 
 <!--
 **faneshala/faneshala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
